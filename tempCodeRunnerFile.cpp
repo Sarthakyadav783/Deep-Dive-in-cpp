@@ -1,0 +1,1 @@
+while ((c = getchar()) != EOF) {

@@ -13,8 +13,8 @@ int main(){
     /*int A[5]={1,2,3,4,5};
     int A[10]={1,1,1,1,1,1,1,1};
     cout<<A;*/
-    char *S="hello";
-    cout<<S<<endl;
+    //char *S="hello";
+    //cout<<S<<endl;
 
     return 0;
 }

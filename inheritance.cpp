@@ -31,7 +31,7 @@ class Derived : public Base{
 };
 };
 int main(){
-    //calling is from derived to base but execution is from base to derived
+     //calling is from derived to base but execution is from base to derived
     Base b;
     b.x=25;
     b.show();

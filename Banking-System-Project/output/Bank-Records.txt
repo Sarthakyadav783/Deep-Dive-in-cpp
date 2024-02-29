@@ -1,0 +1,12 @@
+1
+Sarthak
+Yadav
+118000
+2
+Elon
+Musk
+1e+06
+3
+Jeff
+Bezos
+700000

@@ -62,8 +62,8 @@ int main() {
     Rational r4;
     r4.set_p(7);
     r4.set_q(9);
-    cout<<r4;
-    Rational r5;
+    cout<<r4<<endl;
+     Rational r5;
     r5=r4+r1;
 
 
